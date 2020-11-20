@@ -1,0 +1,2 @@
+# lint.bot
+lint.bot
